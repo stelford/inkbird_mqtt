@@ -1,5 +1,5 @@
 # inkbird_mqtt
-Inkbird Btle devices to MQTT via ESP#@
+Inkbird Btle devices to MQTT via ESP32
 
 Why does this exist ?
 
